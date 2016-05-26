@@ -1,4 +1,3 @@
-use_module(library(clpfd)).
 age(father,2016,42).
 age(son,2016,14).
 
